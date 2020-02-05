@@ -1,2 +1,5 @@
-hello
-# test
+#incclude <stdio.h>
+int main(void)
+{
+printf("my first repo..");
+}
